@@ -1,5 +1,5 @@
 # W-Detec
-Verilen ip adresine göre ip adresinin bazı bilgilerini bulan araçtır.
+Verilen ip adresine göre ip adresinin konumunu bulan araçtır.
 
 ## Kurulum
 
@@ -10,3 +10,5 @@ Verilen ip adresine göre ip adresinin bazı bilgilerini bulan araçtır.
 `cd w-backdoor/`
 
 `python w-detec.py`
+
+<img src="https://imagevisit.com/images/2022/07/04/Ekran-Alintisi.png">
